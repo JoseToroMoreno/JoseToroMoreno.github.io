@@ -1,0 +1,21 @@
+Limitaciones a la hora de realizar el CV y no he podido por la limitante de la UD3.1 
+====================================================================================== 
+Al hacer el currículum siguiendo estrictamente solo lo visto en el tema UD3.1, me he dado cuenta de que faltan varios elementos clave que harían que la página quedara mucho mejor. 
+Aquí detallo las limitaciones que he tenido:
+
+1\. Foto de perfil: Quería poner una foto mía en la cabecera del CV, pero como la etiqueta es del siguiente tema (UD3.2), se ha quedado sin imagen.
+ 
+2\. Enlaces a mi correo y redes: Estaría muy bien que al hacer clic en mi email o en mi perfil de LinkedIn se abriera directamente el correo o la página web. 
+    Sin embargo, los hipervínculos con <a> no entran en la UD3.1, así que he tenido que dejarlo como texto normal.
+
+3\. Listas con viñetas (ul / ol): Para la sección de habilidades e idiomas me habría gustado usar listas desordenadas (<ul> y <li>). 
+    Como no las hemos dado aún, he tenido que realizarlo de forma manual ("un apaño") poniendo con espacios ( ) &nbsp; y saltos de línea (<br />). 
+
+4\. Organización en columnas, me hubiera gustado maquetar la página a dos columnas utilizando tablas (por ejemplo, poner a la izquierda los datos de contacto y habilidades, 
+    y a la derecha la experiencia y formación). Sin la etiqueta (que es de la UD3.2), todo tiene que ir de arriba a abajo en una sola columna. 
+
+5\. Diseño visual y CSS: El aspecto queda bastante antiguo porque no podemos usar CSS para ajustar márgenes, fuentes o bordes. 
+    He tenido que utilizar la etiqueta <font> y atributos como bgcolor y text en el para cambiar los colores. 
+
+6\. Formulario de contacto: Tampoco he podido meter un pequeño formulario con casillas para que alguien me pueda enviar un mensaje directamente desde la web, 
+    ya que las etiquetas de formularios no entran en este tema básico. 
