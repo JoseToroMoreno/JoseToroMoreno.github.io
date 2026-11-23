@@ -1,0 +1,35 @@
+body {
+ background-image: url(../images/fondo.jpg);
+ background-repeat: no-repeat ;
+ background-attachment: fixed;
+ background-position:top center;
+ background-size: cover;
+ text-align: center;
+ font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    background-color: rgb(171, 170, 170);
+    color: white;
+    border-left-width: 10px ;
+    border-left-color: red;
+    border-left-style: solid;
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    height: 500px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    border: 1px solid black;
+    margin: 0 3px; 
+}
+
